@@ -10,7 +10,7 @@ Note: SvelteDash official website is still under build.
 
 We've launched our first theme => Blite (BLack & whITE) beta version, styled with tailwind. It has only some important components like Appbar, Button, Card, Accordion etc.
 
-Right now there are only a few components and few people, but that doesn't mean we don't stop here, we have so many amazing ideas. So join us and start building better styled components
+Right now there are only a few components and few people, but that doesn't mean we stop here, we have so many amazing ideas. So join us and start building better styled components
 
 SvelteDash Discord Server: https://discord.gg/KtEMySt
 
